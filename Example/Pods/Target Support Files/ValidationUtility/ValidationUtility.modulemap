@@ -1,0 +1,6 @@
+framework module ValidationUtility {
+  umbrella header "ValidationUtility-umbrella.h"
+
+  export *
+  module * { export * }
+}

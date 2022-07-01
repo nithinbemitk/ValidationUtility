@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'ValidationUtility_Example' do
+  pod 'ValidationUtility', :path => '../'
+
+  target 'ValidationUtility_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

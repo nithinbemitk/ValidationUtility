@@ -1,0 +1,6 @@
+framework module Pods_ValidationUtility_Tests {
+  umbrella header "Pods-ValidationUtility_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
